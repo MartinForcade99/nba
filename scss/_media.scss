@@ -1,0 +1,30 @@
+@media screen and (max-width: 992px) {
+
+    .navbar-toggler {
+        margin-right: 25px;
+    }
+    
+    .logo2 {
+        display: none;
+    }
+
+    .form {
+        margin: 30px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .navbar-toggler {
+        margin-right: 25px;
+    }
+
+    .logo2 {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 390px) {
+
+}

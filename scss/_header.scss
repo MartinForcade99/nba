@@ -1,0 +1,36 @@
+.navbar {
+    padding: 0;
+}
+
+.container-fluid {
+    background-color: black;
+}
+
+.collapse {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+.nav-item {
+    padding: 0 20px 0 20px;
+}
+
+.nav-item a {
+    color: white;
+}
+
+.logo1 {
+    width: 110px;
+    padding: 10px 0 10px 0;
+}
+
+.logo2 {
+    width: 110px;
+    padding: 10px 0 10px 0;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
